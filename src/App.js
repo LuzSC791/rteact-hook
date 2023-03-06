@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="container mt-2">
       <ExampleOne/>
+      <FormHook/>
     </div>
   );
 }
